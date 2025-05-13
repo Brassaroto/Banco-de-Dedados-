@@ -1,0 +1,73 @@
+# 🗃️ Banco de Dados - Generation Brasil
+
+Este repositório foi criado com o objetivo de documentar todo o conteúdo aprendido durante a matéria de **Banco de Dados** no bootcamp da [Generation Brasil](https://brazil.generation.org).
+
+Aqui você encontrará **todos os códigos desenvolvidos** ao longo das aulas, incluindo:
+
+- Scripts SQL;
+- Projetos acadêmicos;
+- Atividades práticas;
+- Exercícios de fixação;
+- Avaliações e provas;
+- Utilização de ferramentas como **MySQL Workbench**, **DBeaver**, entre outras.
+
+---
+
+## 📚 Conteúdo do Repositório
+
+| Tipo de Conteúdo      | Descrição                                                  |
+|-----------------------|------------------------------------------------------------|
+| `Atividades`          | Scripts das atividades propostas em sala de aula.          |
+| `Projetos`            | Projetos completos com modelagem e queries.               |
+| `Provas`              | Resoluções de provas práticas de banco de dados.          |
+| `Modelagem`           | Modelos conceituais, lógicos e físicos de banco de dados. |
+| `Ferramentas`         | Anotações e comandos utilizados em ferramentas práticas.  |
+
+---
+
+## 📌 Tecnologias e Ferramentas
+
+- SQL (Structured Query Language)
+- MySQL
+- MySQL Workbench
+- DBeaver
+- Git & GitHub
+
+---
+
+## 💻 Objetivo
+
+Consolidar os conhecimentos adquiridos na matéria de Banco de Dados, com foco em:
+
+- Criação de bancos de dados relacionais;
+- Manipulação e consulta de dados via SQL;
+- Normalização e modelagem de dados;
+- Prática com ferramentas de SGBD;
+- Aplicação dos conceitos em contextos reais.
+
+---
+
+## 🚀 Sobre a Generation
+
+> A Generation Brasil é uma organização global sem fins lucrativos que prepara jovens para o mercado de trabalho por meio de bootcamps intensivos e gratuitos em diversas áreas de tecnologia.
+
+---
+
+## 👨‍💻 Autor
+
+**Gustavo Brassaroto Lira**  
+Estudante de Sistemas de Informação e integrante do bootcamp de Desenvolvedor Java Full Stack pela Generation Brasil.  
+Este repositório serve como meu portfólio de evolução na disciplina de Banco de Dados.
+
+---
+
+## 📬 Contato
+
+Caso tenha dúvidas, sugestões ou queira trocar experiências:
+
+- 📧 Email: [gubrassarotolira@gmail.com](mailto:gubrassarotolira@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/gustavo-brassaroto-lira-a9a378221](https://www.linkedin.com/in/gustavo-brassaroto-lira-a9a378221/)
+
+---
+
+📌 _Sinta-se à vontade para explorar, aprender e contribuir!_
